@@ -1,5 +1,8 @@
-<img width="545" height="640" alt="image" src="https://github.com/user-attachments/assets/d317d713-0352-4189-989f-b551db3ba675" />
-
+<img width="624" height="725" alt="image" src="https://github.com/user-attachments/assets/a1db4012-7bf3-44b0-b166-9be5d4100a81" />
+<img width="673" height="640" alt="image" src="https://github.com/user-attachments/assets/12330bb2-1355-4176-91b7-63505cfac2c0" />
+<img width="666" height="610" alt="image" src="https://github.com/user-attachments/assets/5c1f56d5-ff6b-4ed2-97f1-077e0378c835" />
+<img width="664" height="632" alt="image" src="https://github.com/user-attachments/assets/2ff5db5b-c598-4575-a0a0-fe9c124b7711" />
+<img width="680" height="636" alt="image" src="https://github.com/user-attachments/assets/3bcd2871-3057-437a-8a27-7c301fab2766" />
 
 # React + Vite
 
@@ -17,3 +20,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Author
+
+[![React Study](https://img.shields.io/badge/React_Study-한_입_크기로_잘라_먹는_리액트-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://inf.run/JhBG)
